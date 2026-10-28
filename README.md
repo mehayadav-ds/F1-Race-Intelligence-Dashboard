@@ -23,10 +23,11 @@ Tableau Desktop
 - F1 Race Intelligence.twbx: Tableau workbook with 9 sheets, a dashboard and a story
 - F1 Race Intelligence Dashboard.png: picture of the dashboard
 - Video: link to the explanation video
+  
 
 ## Key insights
 - Mercedes and Red Bull lead the team points trajectory.
 - Max Verstappen has the most points in the driver leaderboard.
 - Reliability and DNFs vary by team and season.
 
-Name: [Your name]
+Name: [Meha Yadav]
